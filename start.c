@@ -11,5 +11,6 @@
 int main(){
     boot();
     menu();
+    return 0;
 }
 
